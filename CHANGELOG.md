@@ -8,6 +8,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Added
 
+- Mobile video player enhancements and the ability to tap on the left and right edges to seek _community pr!_ ([#5119](https://github.com/lbryio/lbry-desktop/pull/5119))
+
+### Changed
+
+### Fixed
+
+## [0.49.0] - [2020-12-10]
+
+### Added
+
 - Better search suggestions ([#5124](https://github.com/lbryio/lbry-desktop/pull/5124))
 - Inline video player in comments/markdown posts ([#4894](https://github.com/lbryio/lbry-desktop/pull/4894))
 - Better handling of winning claim + top page improvements ([#4944](https://github.com/lbryio/lbry-desktop/pull/4944))
